@@ -1,6 +1,6 @@
 # 📱 PhonePe Payment Insights Dashboard (PowerBI)
 
-Ye project ek interactive **PowerBI Dashboard** hai jo PhonePe ke payment transactions aur user insights ko visualize karta hai. Iska maqsad digital payment trends, user behavior aur financial metrics ko asani se samajhna hai.
+This project is an interactive PowerBI Dashboard that visualizes PhonePe's payment transactions and user insights. Its purpose is to easily understand digital payment trends, user behavior, and financial metrics.
 
 ## 📊 Key Metrics & Features
 - **Total Transactions:** Tracked total volume (e.g., 300K+ transactions).
