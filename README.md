@@ -26,7 +26,8 @@ This project is an interactive PowerBI Dashboard that visualizes PhonePe's payme
 ![Dashboard preview 2](Screenshot%202026-07-28%20161336.png)
 
 ### Analytics & Breakdown
-![Dashboard Preview 2](Screenshot%202026-07-28%20155926.png)
+![Dashboard Preview 3](Screenshot%202026-07-28%20155926.png)
+![Dashboard Preview4](Screenshot%202026-07-28%20155940.png)
 
 ---
 *Created by [Mayank]*
